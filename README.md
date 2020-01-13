@@ -1,3 +1,5 @@
+ BLACKJACK:
+ 
  Banca y un jugador. Empieza el juego y se reparte una carta a cada jugador.
  Valores de las cartas: 1 al 7, y J, Q, K valen 10 cada una.
  El jugador puede elegir recibir carta o plantarse.
